@@ -34,7 +34,7 @@ if __name__ == "__main__":
     cards.setObjectName("cards")
 
     plus = QPushButton("+", cards)
-    plus.setGeometry(132, 75, 50, 50)
+    plus.setGeometry(137, 75, 50, 50)
     plus.setObjectName("plusCircle")
 
     # Load the main window as the root object
