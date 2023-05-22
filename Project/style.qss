@@ -1,0 +1,15 @@
+QPushButton#sidebarButton {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+QPushButton#liveButton {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
