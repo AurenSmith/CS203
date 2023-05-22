@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 8.0.1, 2023-05-22T16:15:50. -->
+<!-- Written by QtCreator 8.0.1, 2023-05-22T18:14:21. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -135,15 +135,15 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main.py</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/Auren/YoobeePython/main.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Auren/YoobeePython/main.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\Auren\YoobeePython\main.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main.py2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/Auren/Documents/GitHub/CS203/Project/main.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Auren/Documents/GitHub/CS203/Project/main.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\Auren\Documents\GitHub\CS203\Project\main.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/Auren/YoobeePython</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/Auren/Documents/GitHub/CS203/Project</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
