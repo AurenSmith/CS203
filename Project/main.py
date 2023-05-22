@@ -10,7 +10,7 @@ if __name__ == "__main__":
 
     # Create the main window
     window = QMainWindow()
-    window.setWindowTitle("My Application")
+    window.setWindowTitle("Yoobee Project")
     window.resize(375, 812)
 
     # Load the stylesheet file
