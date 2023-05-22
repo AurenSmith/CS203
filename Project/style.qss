@@ -1,15 +1,28 @@
 QPushButton#sidebarButton {
     background-color: blue;
-    color: white;
     border: none;
-    border-radius: 5px;
-    padding: 5px;
+    border-radius: 20px;
 }
 
 QPushButton#liveButton {
     background-color: red;
-    color: white;
     border: none;
-    border-radius: 5px;
-    padding: 5px;
+    border-radius: 20px;
+}
+
+QPushButton#cards {
+    background-color: green;
+    border: none;
+    border-radius: 20px;
+}
+
+QPushButton#plusCircle {
+    background-color: orange;
+    color: green;
+    border: none;
+    border-radius: 25px;
+
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 50px;
 }

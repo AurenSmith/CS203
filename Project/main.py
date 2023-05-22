@@ -29,11 +29,17 @@ if __name__ == "__main__":
     liveButton.setGeometry(289, 39, 61, 61)
     liveButton.setObjectName("liveButton")
 
-    # Apply corner radius using stylesheet
-    sidebarButton.setStyleSheet("QPushButton { border-radius: 5px; }")
-    liveButton.setStyleSheet("QPushButton { border-radius: 5px; }")
+    cards = QPushButton("", window)
+    cards.setGeometry(25, 175, 325, 200)
+    cards.setObjectName("cards")
+
+    plus = QPushButton("+", cards)
+    plus.setGeometry(132, 75, 50, 50)
+    plus.setObjectName("plusCircle")
 
     # Load the main window as the root object
     window.show()
+
+    # Code
 
     sys.exit(app.exec())
