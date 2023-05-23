@@ -1,28 +1,34 @@
-QPushButton#sidebarButton {
-    background-color: blue;
+QMainWindow {
+    position: relative;
+}
+
+#sidebarButton {
+    min-width: 61px;
+    max-width: 61px;
+    min-height: 61px;
+    max-height: 61px;
+
+    margin-top: 39px;
+    margin-left: 23px;
+    background-color: #737373;
     border: none;
     border-radius: 20px;
 }
 
-QPushButton#liveButton {
-    background-color: red;
+#liveButton {
+    background-color: #737373;
     border: none;
     border-radius: 20px;
 }
 
-QPushButton#cards {
-    background-color: green;
-    border: none;
+#menuBorder {
+    background-color: #737373;
     border-radius: 20px;
+    border: 5px solid #545454;
 }
 
-QPushButton#plusCircle {
-    background-color: orange;
-    color: green;
+#noBorder {
+    background-color: #737373;
+    border-radius: 20px;
     border: none;
-    border-radius: 25px;
-
-    font-family: "Inter";
-    font-weight: 700;
-    font-size: 50px;
 }
